@@ -78,6 +78,8 @@ body {
   border-radius: 60px;
   display: flex;
   justify-content: space-between;
+  position: relative;
+  top: 120px;
 }
 
 .stat {
@@ -98,7 +100,7 @@ body {
 
 
 .gallery {
-  margin-top: 50px;
+  margin-top: 60px;
   background: #2f2b2b;
   padding: 50px 80px;
   display: flex;
@@ -106,6 +108,7 @@ body {
 }
 
 .card {
+  margin-top: 50px;
   width: 180px;
   display: flex;
   flex-direction: column;
